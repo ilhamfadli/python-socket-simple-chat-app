@@ -10,3 +10,7 @@ You can manually run the project by running the python files one by one in the s
 This program allows several clients to connect to one server so that they can share information with each other. The principle used is the same as the concept of a chat group.
 
 ![Diagram](https://github.com/ilhamfadli/python-socket-simple-chat-app/blob/main/image/diagram.jpg)
+
+Here is an example when the program is run.
+
+![Example](https://github.com/ilhamfadli/python-socket-simple-chat-app/blob/main/image/example.png)
