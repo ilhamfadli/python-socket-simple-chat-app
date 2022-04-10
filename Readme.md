@@ -15,4 +15,4 @@ Here is an example when the program is run.
 
 ![Example](https://github.com/ilhamfadli/python-socket-simple-chat-app/blob/main/image/example.png)
 
-Thank you for viewing my learning project.
+Thank you for viewing my project.
