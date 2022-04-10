@@ -14,3 +14,5 @@ This program allows several clients to connect to one server so that they can sh
 Here is an example when the program is run.
 
 ![Example](https://github.com/ilhamfadli/python-socket-simple-chat-app/blob/main/image/example.png)
+
+Thank you for viewing my learning project.
